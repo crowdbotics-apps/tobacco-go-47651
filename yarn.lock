@@ -1478,6 +1478,12 @@
     prop-types "^15.8.1"
     react-native-app-intro-slider "^4.0.4"
 
+"@modules/onboarding@file:./modules/onboarding/":
+  version "1.0.0"
+  dependencies:
+    prop-types "^15.8.1"
+    react-native-app-intro-slider "^4.0.4"
+
 "@modules/privacy-policy-webview@file:./modules/privacy-policy-webview":
   version "1.0.0"
 
@@ -1490,7 +1496,7 @@
     react-native-keyboard-aware-scroll-view "^0.9.5"
     react-native-screens "3.10.2"
 
-"@modules/social-login@file:./modules/social-login/":
+"@modules/social-login@file:./modules/social-login":
   version "1.0.0"
   dependencies:
     "@invertase/react-native-apple-authentication" "^2.1.0"
