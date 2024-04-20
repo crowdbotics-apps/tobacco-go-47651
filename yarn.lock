@@ -1467,6 +1467,9 @@
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
+"@modules/maps@file:./modules/maps/":
+  version "1.0.0"
+
 "@modules/onboarding@file:./modules/onboarding":
   version "1.0.0"
   dependencies:
@@ -1474,9 +1477,6 @@
     react-native-app-intro-slider "^4.0.4"
 
 "@modules/privacy-policy-webview@file:./modules/privacy-policy-webview":
-  version "1.0.0"
-
-"@modules/privacy-policy-webview@file:./modules/privacy-policy-webview/":
   version "1.0.0"
 
 "@modules/social-feed@file:./modules/social-feed":
