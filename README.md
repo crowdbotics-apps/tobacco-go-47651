@@ -61,6 +61,8 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-2fa](modules/2fa)
 - [social-feed]()
 - [django-calendly](backend/modules)
+- [django-contact-us](backend/modules)
+- [django-disqus](backend/modules)
 
 # Getting started: Frontend
 
