@@ -1490,7 +1490,7 @@
     react-native-keyboard-aware-scroll-view "^0.9.5"
     react-native-screens "3.10.2"
 
-"@modules/social-login@file:./modules/social-login/":
+"@modules/social-login@file:./modules/social-login":
   version "1.0.0"
   dependencies:
     "@invertase/react-native-apple-authentication" "^2.1.0"
